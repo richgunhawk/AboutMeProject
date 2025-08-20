@@ -1,6 +1,6 @@
 import React from 'react';
-import { AnimatedSection } from '../components/AnimatedSection';
-import { Card } from '../components/Card';
+import { AnimatedSection } from '../components/animatedSection';
+import { Card } from '../components/card';
 
 export const HomePage = ({ portfolioData }) => (
     <div className="space-y-20">
