@@ -1,5 +1,5 @@
 import React from 'react';
-import { AnimatedSection } from '../components/animatedSection';
+import { AnimatedSection } from '../components/AnimatedSection';
 import { Download } from 'lucide-react';
 
 export const AboutPage = ({ portfolioData }) => (

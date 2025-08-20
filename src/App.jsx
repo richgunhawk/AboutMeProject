@@ -4,8 +4,8 @@ import { ProjectsPage } from './pages/ProjectsPage';
 import { ExperiencePage } from './pages/ExperiencePage';
 import { AboutPage } from './pages/AboutPage';
 import { portfolioData } from './data/portfolioData';
-import { Header } from './components/header';
-import { Footer } from './components/footer';
+import { Header } from './components/Header';
+import { Footer } from './components/Footer';
 
 function App() {
     const [darkMode, setDarkMode] = useState(false);
